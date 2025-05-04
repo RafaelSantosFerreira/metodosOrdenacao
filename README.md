@@ -18,24 +18,7 @@ Utilizamos metáforas visuais com bolas de sinuca e um personagem em estilo anim
 - Exercícios para fixação
 - Representações visuais e analogias com jogos
 
-## 🖼️ Imagens Ilustrativas
 
-As imagens abaixo foram utilizadas para representar de forma divertida os algoritmos:
-
-### 1. Malabares com bolas de sinuca (Introdução ao tema)
-![Malabares](images/malabares.png)
-
-### 2. Ordenando bolas na mesa (Bubble Sort)
-![Ordenação](images/ordenando.png)
-
-### 3. Buscando bola específica (Busca Binária)
-![Busca](images/buscando.png)
-
-### 4. Selecionando bola 5 com atenção (Busca Binária - Detalhada)
-![Selecionando](images/selecionando.png)
-
-### 5. Personagem feliz após aprender os conceitos
-![Feliz](images/feliz.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
