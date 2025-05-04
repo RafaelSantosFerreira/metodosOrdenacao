@@ -18,13 +18,9 @@ Utilizamos metáforas visuais com bolas de sinuca e um personagem em estilo anim
 - Exercícios para fixação
 - Representações visuais e analogias com jogos
 
-
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Java (para implementação dos algoritmos)
-- Python (para geração de apostila e testes de mesa)
-- Ferramenta de IA (para criação das imagens em estilo anime)
 
 ## 🧠 Objetivo
 
